@@ -21,8 +21,8 @@ body {
 
 /* Header Styling */
 header {
-    background-color: #0A3D62; /* orange */
-    padding: 15px;
+    background-color: #0A3D62; /* pink */
+    padding: 25px;
     text-align: center;
     color: white;
 }
@@ -74,7 +74,7 @@ nav ul li a:hover {
 
 /* Payment Button */
 .payment button {
-    background-color: #1B4F72; /* Dark Blue */
+    background-color: #1B4F72; /* Dark green */
     color: white;
     padding: 10px 20px;
     border: none;
@@ -109,3 +109,4 @@ footer {
     background-color: #0A3D62; /* Deep Blue */
     color: white;
 }
+
